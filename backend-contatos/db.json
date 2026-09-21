@@ -1,0 +1,19 @@
+{
+  "contatos": [
+    {
+      "nome": "João Silva43534534534534",
+      "telefone": "(81) 98765-4321",
+      "cidade": "Recife - PE",
+      "anotacao": "Amigo da faculdade",
+      "id": "1"
+    },
+    {
+      "nome": "4234435345345345",
+      "telefone": "535345345",
+      "cidade": "43534",
+      "anotacao": "5345345",
+      "id": "QyBG9KqnOQE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
